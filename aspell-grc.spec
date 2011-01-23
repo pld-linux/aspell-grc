@@ -7,9 +7,9 @@ Release:	1
 Epoch:		1
 License:	GPL v3+
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/grc/aspell6-grc-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/grc/aspell6-grc-%{version}-%{subv}.tar.bz2
 # Source0-md5:	9a4ecc08569e4de53d35f16d1da02099
-URL:		http://aspell.sourceforge.net/
+URL:		http://aspell.net/
 BuildRequires:	aspell >= 3:0.60.0
 Requires:	aspell >= 3:0.60.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)

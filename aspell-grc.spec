@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik grecki starożytny dla aspella
 Name:		aspell-grc
 Version:	0.02
 %define	subv	0
-Release:	1
+Release:	2
 Epoch:		1
 License:	GPL v3+
 Group:		Applications/Text
